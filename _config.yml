@@ -24,24 +24,24 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Lakshmi Mampatta"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Junior Researcher, Interdisciplinary Researcher, HCI, Digital Health, Responsible AI, Software Tester"
+  location         : "Finland"
+  employer         : ""
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lakshmi.mampatta@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?view_op=new_articles&hl=en&imq=Lakshmi+Mampatta#"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0008-5030-771X"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "lakshmimampatta"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "lakshmimampatta"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -90,6 +90,21 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+    1. Accepted (First Author) - TKTP 2026 (to appear)
+
+        **Lakshmi Mampatta**, Sameera Bandharanayake, Pasi Karppinen.
+        "Beyond Efficacy - A Multi-Stakeholder Study of Deployment Constraints in Immersive Digital Therapeutics for Adolescents with ADHD"
+      
+
+   2. Published (Second Author) -   CHI 2026 
+      Sumita Sharma, **Lakshmi Mampatta**, Sushmita Vavilala, Netta Iivari, Charu Monga, Apala Lahiri Chavan, Muhammad Shahroz Abbas, and Pauli Klemettilä. 
+      "No Caste, No Crowds, and Robots for All - Children’s Values, Hopes, and Fears in the Designs of their Future Classrooms"
+    
+
+   3. Published - MIE 2026
+      Manria Sinervä, Tanja Vihriälä-Määttä, Aida Mikkola, Pantea Keikhosrokiani, **Lakshmi Mampatta, Anthony Korsah, Olli Korhonen, Sehrish Khan, Woubshet Behutiye, Minna Isomursu.
+      "The Future of Digital Interventions in Epilepsy Care - Needs, Scenarios, and Possibilities"
+         
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
